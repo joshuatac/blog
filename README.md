@@ -13,13 +13,11 @@ Set up React Application with using Webpack and Babel
 
 ## Installation
 
-1. Clone this repo in `git clone https://github.com/imranhsayed/react-workshop`
+1. Clone this repo in `https://github.com/joshuatac/blog.git`
 
-2. `cd react-workshop`
+2. `cd josebek-blog`
 
 3. Run `npm install`
-
-[Blog Link](https://medium.com/@imranhsayed/set-up-react-app-with-webpack-webpack-dev-server-and-babel-from-scratch-df398174446d)
 
 ## Commands
 
