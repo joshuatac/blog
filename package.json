@@ -1,5 +1,5 @@
 {
-  "name": "react-workshop",
+  "name": "josebek-blog",
   "version": "1.0.0",
   "description": ":fire: This is a workshop for learning how to build React Applications.",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imranhsayed/react-workshop.git"
+    "url": "git+https://github.com/joshuatac/blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/imranhsayed/react-workshop/issues"
+    "url": "https://github.com/joshuatac/blog/issues"
   },
-  "homepage": "https://github.com/imranhsayed/react-workshop#readme",
+  "homepage": "https://github.com/joshuatac/blog/blob/main/README.md",
   "dependencies": {
     "css-loader": "^2.1.1",
     "file-loader": "^3.0.1",
